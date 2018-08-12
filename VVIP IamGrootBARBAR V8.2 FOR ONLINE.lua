@@ -29,7 +29,9 @@ end
 HOME = 1
 
 
-gg.alert("IGN PUBG : IamGrootBARBAR /nImei 1 : 865431033714958 /nImei 2 865431033714966:")
+gg.alert("IGN PUBG : IamGrootBARBAR 
+  Imei 1 : 865431033714958 
+  Imei 2 865431033714966:")
 gg.toast("VERIFIED!")
 
 gg.alert("ENTER PASSWORD")
@@ -111,11 +113,11 @@ function WNC()
   "2.Red ",
   "3.Pixel ",
   "4.Glowing (HDR)",
-  "5.�Yelow ",
+  "5.ðYelow ",
   "6.White ",
   "7.Black ",
   "8.RGB ",
-  "9.�Crystal ",
+  "9.ðCrystal ",
   "10.Purple ",
   "11.(HDR) ",
   "12.Red (HDR) ",
@@ -124,7 +126,7 @@ function WNC()
   "15.HOT Color ",
   "16.Purple\n [SD 425-435]",
   "17.Rainbow ",
-  "🔙 BACK"
+  "ðŸ”™ BACK"
   }, nil, "[MENU] WALLHACK")
   if WC == nil then
   else
@@ -388,7 +390,7 @@ function MENUWH()
   "6.Snapdragon 425/435 V2",
   "7.Wallhack MEDIATEK",
   "8.Wallhack KIRIN",    
-  "🔙 BACK"
+  "ðŸ”™ BACK"
   }, nil, " Wallhack Menu ")
   if MWH == nil then
   else
@@ -606,8 +608,8 @@ function LOBB()
   "3.New Magic Bullet Pro ",
   "4.No Recoil ",
   "5.Less Recoil ",
-  "🔙 BACK"
-  }, nil, "💢 Lobby Menu 💢")
+  "ðŸ”™ BACK"
+  }, nil, "ðŸ’¢ Lobby Menu ðŸ’¢")
   if LB == nil then
   else
   if LB[1] == true then
@@ -712,7 +714,7 @@ function GAMEM()
   "25.Increase Damage ",
   "26.Weapon Antenna ",
   "27.High Jump ",    
-  "🔙 BACK"
+  "ðŸ”™ BACK"
   }, nil, "IN GAME MENU ")
   if GM == nil then
   else
@@ -1152,7 +1154,7 @@ function VIEW()
     "4.[GAME] Black Sky ",
     "5.[GAME] Open Sit Scope ",
     "6.[GAME] Off Sit Scope ",
-    "🔙 BACK"
+    "ðŸ”™ BACK"
   }, nil, "View Menu")
   if VW == nil then
   else
@@ -1243,7 +1245,7 @@ function CAR()
     "1.[GAME] Jeep Drive in water ",
     "2.[GAME] Buggy Through Wall ",
     "3.[GAME] Jeep Speed Up ",
-    "🔙 BACK"
+    "ðŸ”™ BACK"
   }, nil, "CARS")
   if CARM == nil then
   else
@@ -1297,7 +1299,7 @@ function ZOOM()
     "4.[GAME] Off X8 Zoom ",
     "5.[GAME] Red Dot ",
     "6.[GAME] Red Dot 2 ",
-    "🔙 BACK"
+    "ðŸ”™ BACK"
   }, nil, "Zoom Menu")
   if ZM == nil then
   else
@@ -1391,7 +1393,7 @@ function Z5()
     "2.[NEW VVIP] HeadShot\n open Scope ",
     "3.[NEW VVIP] Auto hit\n 50% Body 50% Head ",
     "4.[NEW VVIP] NEW Headshot ",  
-    "🔙 BACK"
+    "ðŸ”™ BACK"
   }, nil, "Headshoot Menu")
   if HO == 1 then
     HO1()
@@ -1479,7 +1481,7 @@ function MC()
   KR = gg.choice({
     "\226\156\137\239\184\143 Youtube: www.youtube.com/PUBGMCorner ",
     "\226\156\137\239\184\143 Instagram: @PUBGMobileScript ",
-    "🔙 BACk"
+    "ðŸ”™ BACk"
   }, nil, "Contact Us For VVIP Sript")
   if KR == 1 then
     MC()
